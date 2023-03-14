@@ -21,5 +21,8 @@ artifacts:
   files:
     - '**/*'
     - index.js
+    - login.js
+    - scripts.js
+    - login.html
     - index.html
     - package.json
