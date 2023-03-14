@@ -19,10 +19,6 @@ phases:
 # used only for building and testing.
 artifacts:
   files:
-    - '**/*'
+    - public/**/**
     - index.js
-    - login.js
-    - scripts.js
-    - login.html
-    - index.html
     - package.json
